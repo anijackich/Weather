@@ -3,7 +3,7 @@
  
  USAGE:
 
- import Weather
+ ```import Weather```
 
 - ```Weather.temp()``` - Temperature
 - ```Weather.temp_fell()``` - Feels like temperature 
