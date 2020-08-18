@@ -17,7 +17,7 @@
  The first is the need to return just a number (integer or float) without units of measurement (by default False)  
  The second is the city (by default moskva)  
 
- Weather.total() - General description of the weather  
+ ```Weather.total()``` - General description of the weather  
  Takes the city as an argument  
 
  Dependencies: weathercom  
